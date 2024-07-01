@@ -9,9 +9,10 @@
     "@vitejs/plugin-vue": "^4.3.4",
     "@vue/compiler-sfc": "^3.3.4",
     "@vue/server-renderer": "^3.3.4",
+    "openai": "^4.52.2",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9",
     "vike": "^0.4.142",
+    "vite": "^4.4.9",
     "vue": "^3.3.4"
   },
   "type": "module"
